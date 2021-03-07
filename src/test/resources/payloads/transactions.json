@@ -1,0 +1,6 @@
+{
+    "debit_account": "NLBANK20B6071",
+    "credit_account": "internal",
+    "amount": 500,
+    "transaction_status": "success"
+}
