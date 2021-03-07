@@ -1,4 +1,4 @@
-package src.test.java.com.serenity.tests.features;
+package com.serenity.tests.features;
 
 import cucumber.api.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;

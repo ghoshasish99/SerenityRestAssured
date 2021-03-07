@@ -1,4 +1,4 @@
-package src.test.java.com.serenity.tests.features.steps;
+package com.serenity.tests.features.steps;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
