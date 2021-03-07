@@ -8,7 +8,7 @@
         <serenity.version>1.9.26</serenity.version>
         <serenity.cucumber.version>1.9.8</serenity.cucumber.version>
         <serenity.maven.version>1.9.26</serenity.maven.version>        
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
